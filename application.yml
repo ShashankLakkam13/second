@@ -17,4 +17,3 @@ spring:
     name: CLOUD-API-GATEWAY
 server:
   port: 3333
-  name:Shashank
