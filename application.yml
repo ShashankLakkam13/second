@@ -16,4 +16,4 @@ spring:
   application:
     name: CLOUD-API-GATEWAY
 server:
-  port: 3333
+  port: 1111
